@@ -50,8 +50,11 @@ desktop
 Here is the mockup illustration of the tablet version of the site. Your final result should look very close to this mockup. Note that in this view, the 3rd section takes up the entire row.
 
 tablet
+![image](https://user-images.githubusercontent.com/81466381/121815248-091bae80-cc93-11eb-9815-333ec35692a0.png)
 
 
 Here is the mockup illustration of the mobile version of the site. Your final result should look very close to this mockup.
 
 mobile
+![image](https://user-images.githubusercontent.com/81466381/121815259-1b95e800-cc93-11eb-8bd6-19af4f32a82a.png)
+
