@@ -56,5 +56,6 @@ tablet
 Here is the mockup illustration of the mobile version of the site. Your final result should look very close to this mockup.
 
 mobile
+
 ![image](https://user-images.githubusercontent.com/81466381/121815259-1b95e800-cc93-11eb-8bd6-19af4f32a82a.png)
 
